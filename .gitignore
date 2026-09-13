@@ -1,0 +1,17 @@
+# Виртуальные окружения
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Временные файлы Word
+~$*.docx
